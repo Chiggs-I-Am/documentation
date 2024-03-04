@@ -1,3 +1,5 @@
+.. _hosting/change-solution:
+
 =======================
 Change hosting solution
 =======================
